@@ -1,3 +1,7 @@
 body {
+    /*fondo sea tal color*/
     background: #A0D6AC;
+    /*letras de la pagina*/
+    color: white; 
+    margin: 10px 20px 30px;
 }
